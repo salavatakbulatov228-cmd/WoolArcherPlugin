@@ -1,0 +1,5 @@
+arrow-remove-delay: 1
+particle-count: 20
+particle-spread: 0.3
+sound: BLOCK_WOOL_BREAK
+particle: BLOCK
