@@ -1,0 +1,9 @@
+name: WoolArcherPlugin
+version: 1.1
+main: ru.dipsik.woolars.WoolArcherPlugin
+api-version: '1.21'
+commands:
+  woolarcher:
+    description: Настройка разрушения шерсти
+    usage: /woolarcher <параметр> <значение> | /woolarcher reload
+    permission: woolarcher.admin
